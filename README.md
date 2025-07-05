@@ -44,5 +44,5 @@ For feedback or collaboration, reach me at [timelessrecall@gmail.com](mailto:tim
 
 ---
 
-*This repo is a work in progress. I update it regularly as I solve more problems and refine my skills.*
+*This repo is a work in progress*
 
