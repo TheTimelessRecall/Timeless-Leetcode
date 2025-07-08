@@ -15,12 +15,6 @@ This repository contains my solutions to various Leetcode problems organized by 
 
 - Inside each folder, files are named as `{ProblemNumber}-{ProblemTitle}.cpp` containing my C++ solution for that problem.
 
----
-
-## Progress
-
-- Number of problems solved: **17**
-- Difficulty levels covered: Easy, Medium, Hard
 
 ---
 
